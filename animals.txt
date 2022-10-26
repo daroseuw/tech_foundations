@@ -2,3 +2,4 @@ lion
 tiger
 eel
 rhino
+wolf
